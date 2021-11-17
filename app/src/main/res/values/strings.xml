@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="txt_nombre">Ingresa nombre</string>
+    <string name="txt_datos">Ingresa datos</string>
+    <string name="btn_guardar">GUARDAR</string>
+    <string name="btn_buscar">BUSCAR</string>
+
+
+</resources>
